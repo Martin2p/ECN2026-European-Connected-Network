@@ -46,7 +46,14 @@ ECN2026/
 - Firewall hardening
 - Monitoring & logging concepts
 - Failover and resilience testing
+## Network Overview Diagram
 
+![ECN2026 Network Overview](diagrams/ECN2026_overview.png)
+
+*This diagram is a simplified, abstract representation created for educational
+and documentation purposes. It does not disclose real infrastructure details.*
+
+*Diagram created using the Filius network simulator.*
 
 ## Disclaimer
 This repository contains no real credentials, IP addresses or provider details.
